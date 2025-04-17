@@ -6,7 +6,7 @@
 ### 🚀 Currently working on 
 
 - 🔍 **ShopSmart** — A smart web app that finds the best online deals with web scraping, price filters, and Google Auth integration.  
-  *(React + Flask | Local + mock data | Results with matching aesthetics and open for collaborations :p)*
+  *(open for collaborations :p)*
 
 
 ---
