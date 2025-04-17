@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samriddhi Tripathhi</h1>
+<h1 align="center">Hi 👋, I'm Samriddhi Tripathi</h1>
 <h3 align="center">A full-stack developer • Data science enthusiast • VR AR tinkerer • Public speaker in progress 🎙️</h3>
 
 ---
@@ -34,19 +34,16 @@
 
 ### 📊 GitHub Stats
 
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&margin-w=15" />
 </p>
 
+### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Reach Out! 
 
