@@ -36,12 +36,12 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cakeeess&theme=radical&no-bg=true&margin-w=15" />
 </p>
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cakeeess&theme=react-dark" />
 </p>
 
 
