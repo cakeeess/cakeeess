@@ -32,17 +32,30 @@
 
 ---
 
+## 👋 Hey there! Welcome to my GitHub
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=snehalSaurabh&theme=algolia&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Stats
+![Samriddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cakeeess&show_icons=true&theme=algolia&hide_border=true&count_private=true)
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cakeeess&theme=radical&no-bg=true&margin-w=15" />
-</p>
+---
 
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cakeeess&theme=react-dark" />
-</p>
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=cakeeess&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📌 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakeeess&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=cakeeess&color=blue&style=flat)
 
 
 ### 📫 Reach Out! 
