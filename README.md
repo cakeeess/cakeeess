@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samriddhi Tripathi</h1>
-<h3 align="center">A front-end developer • ML enthusiast • VR AR tinkerer • Public speaker in progress 🎙️</h3>
+<h3 align="center">A front-end developer • ML enthusiast • VR AR tinkerer • Public speaker 🎙️</h3>
 
 ---
 
