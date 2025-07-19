@@ -34,11 +34,6 @@
 
 ## 👋 Hey there! Welcome to my GitHub
 
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=snehalSaurabh&theme=algolia&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📊 GitHub Stats
 ![Samriddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cakeeess&show_icons=true&theme=algolia&hide_border=true&count_private=true)
 
